@@ -4,6 +4,14 @@ In the last few years there has been increased interest in training machine lear
 This is an overview of the published methods.
 Feel free to message me if I missed one.
 
+## Overview papers and reviews:
+- [Inverse Molecular Design Using Machine Learning: Generative Models For Matter Engineering](http://science.sciencemag.org/content/361/6400/360)
+- [Deep Generative Models for Molecular Science](https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.201700133)
+
+## Assessment:
+- [Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00234)
+
+## Methods: 
 - [Accelerating Prototype-Based Drug Discovery using Conditional Diversity Networks](http://arxiv.org/abs/1804.02668)
 - [Adversarial Threshold Neural Computer for Molecular de Novo Design](https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.7b01137)
 - [Application of generative autoencoder in de novo molecular design](http://arxiv.org/abs/1711.07839)
