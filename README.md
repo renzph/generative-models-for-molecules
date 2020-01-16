@@ -1,4 +1,4 @@
-# Generative models for molecules
+# Generative models for molecules [Out of date, too many papers]
 
 Models capable of generating novel molecular structures recently got a lot of attention.  
 This is an attempt to track the relevant publications regarding the topic. Please let me know if I forgot something.
